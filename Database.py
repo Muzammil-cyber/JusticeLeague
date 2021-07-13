@@ -21,6 +21,7 @@ class UserName:
 
 
 Data = {
+    #"UserName" :UserName(No.,"UserName","RealName","PassWord")
     "CatWoman" : UserName(0,"CatWoman","Salina","bruceisbat"),
     "Batman" : UserName(1,"Batman","BW","Catlove"),
     "SuperMan" : UserName(2,"SuperMan","Clerk Kent","Louis"),
