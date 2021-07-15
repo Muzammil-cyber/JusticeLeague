@@ -34,7 +34,7 @@ def Verify(user,pwd):
 def main():
     user = int(input("Enter 1 for SignIn and 2 for Signup and 0 to Exit\n"))
     while user != 1 and user != 2 and user != 0:
-        user = int(input("For SignIn enter 1 and for SignUp enter 2, Dumba*s\n"))
+        user = int(input("For SignIn enter 1 and for SignUp enter 2 and to Exit enter 0, Dumba*s\n"))
     if user == 1:
         signin()
     elif user == 2:
